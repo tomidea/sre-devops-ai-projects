@@ -1,0 +1,9 @@
+id,subject,body,customer_email
+1,Charged twice for subscription,I was charged $49.99 twice on my credit card this month. I only have one account. Please refund the duplicate charge immediately.,sarah@example.com
+2,Cannot access my account,I have been trying to log in for the past hour. Password reset emails are not arriving. I have an important deadline today.,mike@example.com
+3,API returning 500 errors,Our integration keeps getting 500 Internal Server Error responses when sending POST requests to /api/v2/webhooks. Started happening after your maintenance window last night.,dev@techcorp.com
+4,Request for bulk export feature,It would be really helpful if we could export all our project data in bulk as a CSV. Currently we have to export one project at a time which is very time consuming.,lisa@example.com
+5,Slow dashboard loading times,The main dashboard takes over 30 seconds to load every morning. It used to load in 2-3 seconds. This has been going on for about a week now.,james@example.com
+6,Thank you for the quick support,Just wanted to say thanks to your support team. My issue was resolved within an hour. Really impressed with the service.,happy@customer.com
+7,Invoice shows wrong company name,Our invoice for March shows the wrong company name. It says TechFlow but should be TechFlow Solutions Inc. We need this corrected for our accounting records.,accounting@techflow.com
+8,Two-factor authentication not working,The 2FA codes from my authenticator app are being rejected. I have verified the time sync on my phone is correct. Cannot access my account at all.,secure@company.com
