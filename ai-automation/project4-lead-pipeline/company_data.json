@@ -1,0 +1,8 @@
+{
+    "TechFlow": {"industry": "SaaS", "size": "50-200", "revenue": "$5M-$20M", "tech_stack": ["Salesforce", "HubSpot", "Slack"], "funding": "Series A"},
+    "GrowthStack": {"industry": "MarTech", "size": "20-50", "revenue": "$1M-$5M", "tech_stack": ["HubSpot", "Zapier", "Shopify"], "funding": "Seed"},
+    "RetailPro": {"industry": "E-commerce", "size": "200-500", "revenue": "$20M-$50M", "tech_stack": ["Salesforce", "Shopify Plus", "Snowflake"], "funding": "Series B"},
+    "QuickLaunch": {"industry": "SaaS", "size": "1-20", "revenue": "<$1M", "tech_stack": ["Notion", "Stripe"], "funding": "Bootstrapped"},
+    "ShopScale": {"industry": "E-commerce", "size": "100-200", "revenue": "$10M-$20M", "tech_stack": ["Shopify Plus", "Klaviyo", "Snowflake"], "funding": "Series A"},
+    "DataWise": {"industry": "Data Analytics", "size": "50-100", "revenue": "$5M-$10M", "tech_stack": ["Salesforce", "Snowflake", "dbt"], "funding": "Series A"}
+}
